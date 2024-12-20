@@ -1,0 +1,4 @@
+{
+  "container_name": "marketstack-data",
+  "local_csv_path": "./raw_data/raw_data.csv"
+}
